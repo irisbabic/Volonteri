@@ -5,9 +5,9 @@ $username = "id4908067_root";
 $password = ".sombermind.2909";
 $dbname = "id4908067_ck_volonteri"; */
 $servername = "localhost";
-$username = "root";
-$password = ".sombermind.2909";
-$dbname = "ck_volonteri";
+$username = "";
+$password = "";
+$dbname = "";
 $ukupno = 0;
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
